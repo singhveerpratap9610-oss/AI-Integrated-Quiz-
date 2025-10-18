@@ -1,0 +1,2 @@
+The **AI Integrated Quiz System** is an intelligent quiz platform built using **Java** that leverages **Artificial Intelligence** to provide dynamic, adaptive, and interactive quiz experiences.  
+It allows users to take quizzes on various topics, get instant feedback, and view performance analytics. The AI integration helps generate personalized questions, evaluate answers smartly, and adapt the difficulty level according to the user’s performance.  
